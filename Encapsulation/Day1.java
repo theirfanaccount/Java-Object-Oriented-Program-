@@ -7,7 +7,7 @@ class Student{
 		this.sName = sName;
 	}
     public void setsRollNo(int sRollNo) {
-		this.sRollNo = sRollNo;
+		this.sRollNo =  sRollNo;
 	}
     public String getsName() {
 		return sName;
