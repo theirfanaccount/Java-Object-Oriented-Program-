@@ -4,8 +4,7 @@ class staticAccess{
     static int b; //static variable
     //instace block
     {
-        a = 10;
-        
+        a = 10; 
     }
     static {
         b = 20;
