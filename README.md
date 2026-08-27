@@ -50,3 +50,14 @@ A complete guide to Java OOP concepts with practical examples and programs. This
 
 ### 9. **Code flow of execution**
 - learn which block is execute
+
+## DAY 4 : Topics Covered
+
+### 10. **Simple program of inheritance**
+- creating parent and child class
+- inherit child class using extends keyword
+
+### 11. **Types of inheritance**
+- All four type of inheritance(Single, Multilevel, Hierarchical, Hybrid)
+- Visual hierarchy explanations
+- How each type works
