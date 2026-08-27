@@ -30,7 +30,6 @@ A complete guide to Java OOP concepts with practical examples and programs. This
 ### 5. **Constructor Overloading**
 - Multiple constructors with different parameters
 - Method resolution
-- Practical applications
 
 ## DAY 3 : Topics Covered
 
