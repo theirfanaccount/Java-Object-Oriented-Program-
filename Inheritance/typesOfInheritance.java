@@ -22,6 +22,5 @@ class child2 extends parent{
 //------main class------
 public class typesOfInheritance {
     public static void main(String[] args){
-        System.out.println("hjdsf");
     }
 }
