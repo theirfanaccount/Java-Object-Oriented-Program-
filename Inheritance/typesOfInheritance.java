@@ -1,11 +1,11 @@
 package Inheritance;
 // HYBRID INHERITANCE: Mix of Single + Multilevel + Hierarchical
 // Super(Base) class
-class parent{
+class Parent{
 
 }
 // -----single inheritance-----
-class child extends parent{
+class child extends Parent{
 
 }
 // ------multilevel inheritance-------
@@ -13,10 +13,10 @@ class grandChild extends child{
 
 }
 //------hierachical inheritance--------
-class child1 extends parent{
+class child1 extends Parent{
 
 }
-class child2 extends parent{
+class child2 extends Parent{
 
 }
 //------main class------

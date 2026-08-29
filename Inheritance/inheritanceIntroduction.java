@@ -1,5 +1,5 @@
 package Inheritance;
-class parent{
+class Father{
     String skinColorc = "brown";
     float height = 5.6f;
     void readBook(){
@@ -11,12 +11,12 @@ class parent{
     }
 
 }
-class child extends parent{
+class son extends Father{
     
 }
 public class inheritanceIntroduction {
     public static void main(String[] args){
-        child c = new child();
+        son c = new son();
         c.readBook();
         c.noSmoke();
         System.out.println(c.height);
