@@ -61,3 +61,7 @@ A complete guide to Java OOP concepts with practical examples and programs. This
 - All four type of inheritance(Single, Multilevel, Hierarchical, Hybrid)
 - Visual hierarchy explanations
 - How each type works
+
+## DAY 12 : **Constructor chining**
+- all variation of constructor
+- local and constructor chining both in same program
