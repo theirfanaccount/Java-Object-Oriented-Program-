@@ -1,16 +1,11 @@
 package Inheritance;
-
-// package Inheritance;
-
 // CONSTRUCTOR CHINING
-/*  constructor chining is done by super() call, 
-    it must be first line of code inside constructor 
-    when we do not write super() it will auto injected(super() zero parameterised) by the java compiler
-
+/* 
+    parameterise constructor chining
 */
 class Car{
     int price;
-    float milage;
+    float milage; 
     Car(){
         price = 10000;
         milage = 40.5f;
