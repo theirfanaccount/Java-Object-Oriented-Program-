@@ -14,11 +14,11 @@ class passengerPlane extends plane{
     // Override method
     @Override
     void fly(){
-        System.out.println("The cargo plane is flying at lowest heighest");
+        System.out.println("The Cargo Plane is flying at lowest heighest");
     }
     //specilised method
     void carryPassenger(){
-        System.out.println("The plane is carry passenger");
+        System.out.println("The Passenger Plane is carry passenger");
     }
     // inherited method
     // void takeOff()
