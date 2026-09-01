@@ -72,12 +72,11 @@ A complete guide to Java OOP concepts with practical examples and programs. This
 
 ### 13. **Method overriding**
 - all four rules of method overriding
-- program in method overriding
+
 
 ### 14. **Super keyword**
 - use of super keyword
-- program on super keyword
+- accessing parent class method and variable from child class by super keyword.
 
 ### 15. **Method hiding**
 - rules and ways of method hiding
-- programs on method hiding
