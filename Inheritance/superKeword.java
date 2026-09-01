@@ -11,7 +11,7 @@ class second extends first{
     void method1(){
         System.out.println(i);
         System.out.println(super.i);
-        super.method1();
+        super.method1();//access parent class method when child class is override.
 
     }
 }
