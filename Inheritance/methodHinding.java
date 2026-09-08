@@ -14,7 +14,7 @@ class lower extends upper{
         System.out.println("hola");
     }
     // method hiding
-    public static void name(){
+    public static void name1(int x){
         System.out.println("I am a static method of lower class");
     }
 }
@@ -22,6 +22,7 @@ public class methodHinding {
     public static void main(String[] args){
         lower l = new lower();
         l.fun1();
+        lower.name1(10);
         lower.name();
     }
 }
