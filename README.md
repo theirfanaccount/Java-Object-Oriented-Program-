@@ -80,3 +80,41 @@ A complete guide to Java OOP concepts with practical examples and programs. This
 
 ### 15. **Method hiding**
 - rules and ways of method hiding
+
+## DAY 8 : Topic covered
+### 16. **Constructor Chining**
+- Both constructor chining(with same class and different class)
+### 17. **Association**
+- types of Association(Agregation and composition) and program on it
+### 18. **Programs**
+- Program on both inheritance and static (Understood the code flow of execution from under the hood)
+- Constumer Details program using Inheritance
+
+## DAY 9 : Topic covered
+### 19. **Polymorphism**
+- Program on polymorphism
+- loose coupling and tight coupling
+
+## Day 10 : Topic covered
+### 20. **Abstraction**
+- Simple Program on abstraction
+- Understood abstract and concreate method
+
+## DAY 11 : Topic covered 
+### 20. **ALL Four pilllars of oops**
+- program on all four pillars of oops
+
+## Day 12 : Topic covered
+### 21. **Introduction Of Interface**
+-  Multiple Inheritance
+- Program of Payment method of Onlline payment system
+## Day 13 : Topic covered
+### 22. **Functional Interface**
+- Program using Normal class of Functional interface
+- Program using Anonymous inner class of Functional interface
+- Program using Local inner class of Functional interface
+- Program using Lambda Expression of Functional interface
+
+## Day 14 : Topic covered
+### 23. **Concrete Method Inside Interface**
+- JDK 8 and 9 Features
